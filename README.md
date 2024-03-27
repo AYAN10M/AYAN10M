@@ -61,4 +61,13 @@
 <br>
 <br>
 <br>
-<img algin="center" src="https://i.imgur.com/PqoavY9.gifhttps://i.imgur.com/PqoavY9.gif"/>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div algin="center">
+  <img src="https://i.imgur.com/PqoavY9.gifhttps://i.imgur.com/PqoavY9.gif"/>
+</div>
+
