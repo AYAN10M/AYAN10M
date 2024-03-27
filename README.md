@@ -1,5 +1,7 @@
-<img src="[https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg](https://4kwallpapers.com/images/walls/thumbs_3t/13642.png)" width="100%" />
+<img src="https://4kwallpapers.com/images/walls/thumbs_3t/13642.png" alt="C" width="40" height="40"/>
+
 <h1 align="center">Hi 👋, I'm Ayan Haldar</h1>
+<h3 align="center">When I'm not cheering on my favorite football team, I'm probably leveling up in a game or catching up on the latest anime. ⚽️</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AYAN10M&label=Profile%20views&color=0e75b6&style=flat" alt="AYAN10M" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AYAN10M&theme=dracula" alt="AYAN10M" /></a> </p>
@@ -56,5 +58,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AYAN10M&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AYAN10M&theme=2077" height="180em" />
 </div>
-
+<br>
+<img src="https://i.imgur.com/PqoavY9.gifhttps://i.imgur.com/PqoavY9.gif" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
