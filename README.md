@@ -59,5 +59,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AYAN10M&theme=2077" height="180em" />
 </div>
 <br>
-<img src="https://i.imgur.com/PqoavY9.gifhttps://i.imgur.com/PqoavY9.gif"/>
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<br>
+<br>
+<img algin="center" src="https://i.imgur.com/PqoavY9.gifhttps://i.imgur.com/PqoavY9.gif"/>
